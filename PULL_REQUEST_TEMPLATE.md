@@ -23,6 +23,17 @@
 
 ---
 
+## Code Reviewer Checklist
+
+- [ ] Verify documents (logic spec/load list/pinout) updated to match implementation
+- [ ] Review code changes against updated documents
+- [ ] Verify EEPROM changes are appropriate if applicable
+- [ ] Verify revision history/changelog updated
+- [ ] Log task updates to [Development Review Tracking Log](https://docs.google.com/spreadsheets/d/1Py4iQrj0zgZEpC0SsC9lhCTfzFCCaFs6v0Juon33mcE/edit?gid=0#gid=0)
+- [ ] Notify developer
+
+---
+
 ## Tester Checklist
 
 - [ ] Verify revision history/changelog updated
